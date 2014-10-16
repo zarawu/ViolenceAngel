@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\AngleManager.cs" />
      <Compile Include="Assets\script\Com\Viperstudio\Events\Event.cs" />
      <Compile Include="Assets\script\Com\Viperstudio\Events\EventDispatcher.cs" />
      <Compile Include="Assets\script\Com\Viperstudio\Geom\ColorTransform.cs" />
@@ -100,13 +101,12 @@
      <Compile Include="Assets\script\DragonBones\Utils\DBDataUtil.cs" />
      <Compile Include="Assets\script\DragonBones\Utils\TransformUtil.cs" />
      <Compile Include="Assets\script\DragonBones\Utils\parseOldXMLData.cs" />
+     <Compile Include="Assets\script\Game\BtnClickAnim.cs" />
      <Compile Include="Assets\script\Game\CharactorManager.cs" />
-     <Compile Include="Assets\script\Game\DragenBonesManager.cs" />
-     <None Include="Assets\Resources\texture_1.json.txt" />
-     <None Include="Assets\Resources\texture_2.json.txt" />
-     <None Include="Assets\Resources\skeleton_2.json.txt" />
-     <None Include="Assets\Resources\skeleton_1.json.txt" />
+     <Compile Include="Assets\script\Game\DragonBonesManager.cs" />
+     <None Include="Assets\Resources\dragon\skeleton.json.txt" />
      <None Include="Assets\Resources\Transparent_DepthOrderUnlit.shader" />
+     <None Include="Assets\Resources\dragon\texture.json.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AngleManager.cs">
+    <Files>
+      <File FileName="Assets/script/Game/DragonBonesManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/DragonBones/Animation/AnimationState.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/DragonBones/Animation/IAnimatable.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/DragonBones/Animation/Animation.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/DragonBones/Animation/TimelineState.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/DragonBones/Animation/WorldClock.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/DragonBones/Events/AnimationEvent.cs" Line="1" Column="1" />
+      <File FileName="Assets/AngleManager.cs" Line="63" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

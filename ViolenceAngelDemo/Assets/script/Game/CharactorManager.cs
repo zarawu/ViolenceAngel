@@ -67,18 +67,18 @@ namespace LastCastle
 			}
 
 			//add 20 bird into scene at some random positions.
-//			for (int i=0; i<2; i++) {
-//				for (int j=0; j<5; j++) {
-//				Armature armature = factory.BuildArmature ("bird/charactor", null, "charactor_all");
-//				armature.AdvanceTime (0f);
-//				float r0 = (float)random.NextDouble() + 0.5f;
-//				float r1 = (float)random.NextDouble() + 1;
-//				float r2 = (float)random.NextDouble();
-//				((armature.Display as UnityArmatureDisplay).Display as GameObject).transform.position = new Vector3((float)j+r0*20f, (float)i*3f+r1*5f, r2*15f);
-//				WorldClock.Clock.Add (armature);
-//				armature.Animation.GotoAndPlay ("fly", -1, -1, 0);
-//				}
-//			}
+			for (int i=0; i<2; i++) {
+				for (int j=0; j<5; j++) {
+				Armature armature = factory.BuildArmature ("bird/charactor", null, "charactor_all");
+				armature.AdvanceTime (0f);
+				float r0 = (float)random.NextDouble() + 0.5f;
+				float r1 = (float)random.NextDouble() + 1;
+				float r2 = (float)random.NextDouble();
+				((armature.Display as UnityArmatureDisplay).Display as GameObject).transform.position = new Vector3((float)j+r0*20f, (float)i*3f+r1*5f, r2*15f);
+				WorldClock.Clock.Add (armature);
+				armature.Animation.GotoAndPlay ("fly", -1, -1, 0);
+				}
+			}
          }
 		
 		// Update is called once per frame

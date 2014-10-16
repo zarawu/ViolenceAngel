@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 2db327c035f8247299a464a14475912c
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: texture_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 169
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: texture_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 339
+        width: 118
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: texture_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 373
+        width: 108
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: texture_3
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 396
+        width: 91
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: texture_4
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 483
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: texture_5
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 459
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: texture_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 285
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: texture_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 254
+        width: 62
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: texture_8
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 356
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: texture_9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 247
+        width: 102
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: texture_10
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 326
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: texture_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: texture_12
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 267
+        width: 80
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: texture_13
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 285
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: texture_14
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 286
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: texture_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 241
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: texture_16
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 266
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: texture_17
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 248
+        width: 68
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
